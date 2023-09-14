@@ -1,4 +1,4 @@
-package set;
+package set.OperacoesBasicas;
 
 public class Convidado {
     //atributos
